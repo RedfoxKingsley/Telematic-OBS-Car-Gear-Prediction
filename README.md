@@ -24,62 +24,6 @@ SOFTWARE.
 
 
 
-
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@RedfoxKingsley 
-YunSolutions
-/
-levin-openData
-7
-174
-Code
-Issues
-1
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Update README
-
- master
-katph
-katph committed on Jul 31, 2018 
-2 parents 3221b38 + 10dad9a commit c3c550654d37823b2a5ae7ab23a120dcae759cc4
-Showing  with 83 additions and 65 deletions.
- 21  LICENSE 
-@@ -0,0 +1,21 @@
-MIT License
-
-Copyright (c) 2018 Yun Solutions
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
- 127  README.md 
-@@ -1,65 +1,62 @@
 # LEVIN-Open Data
 
 LEVIN Vehicle Telematics Data
